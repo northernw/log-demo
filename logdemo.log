@@ -1,0 +1,12 @@
+2021-05-18 17:33:01.213  INFO 63277 --- [main] com.github.logdemo.LogDemoApplication    : Starting LogDemoApplication using Java 1.8.0_221 on ZBMAC-9911ea46f with PID 63277 (/github/learn/log-demo/target/classes started by wangyuanqing1 in /github/learn/log-demo)
+2021-05-18 17:33:01.215  INFO 63277 --- [main] com.github.logdemo.LogDemoApplication    : No active profile set, falling back to default profiles: default
+2021-05-18 17:33:01.554  INFO 63277 --- [main] com.github.logdemo.LogDemoApplication    : Started LogDemoApplication in 0.668 seconds (JVM running for 1.116)
+2021-05-18 17:33:01.557  INFO 63277 --- [main] com.github.logdemo.LogDemoApplication    : info!
+2021-05-18 17:33:01.558  WARN 63277 --- [main] com.github.logdemo.LogDemoApplication    : warn!
+2021-05-18 17:33:01.558 ERROR 63277 --- [main] com.github.logdemo.LogDemoApplication    : error!
+2021-05-18 17:44:06.059  INFO 65408 --- [main] com.github.logdemo.LogDemoApplication    : Starting LogDemoApplication using Java 1.8.0_221 on ZBMAC-9911ea46f with PID 65408 (/github/learn/log-demo/target/classes started by wangyuanqing1 in /github/learn/log-demo)
+2021-05-18 17:44:06.064  INFO 65408 --- [main] com.github.logdemo.LogDemoApplication    : No active profile set, falling back to default profiles: default
+2021-05-18 17:44:06.465  INFO 65408 --- [main] com.github.logdemo.LogDemoApplication    : Started LogDemoApplication in 0.86 seconds (JVM running for 1.975)
+2021-05-18 17:50:52.816  INFO 65408 --- [main] com.github.logdemo.LogDemoApplication    : info!
+2021-05-18 18:01:39.445  WARN 65408 --- [main] com.github.logdemo.LogDemoApplication    : warn!
+2021-05-18 18:03:31.454 ERROR 65408 --- [main] com.github.logdemo.LogDemoApplication    : error!
